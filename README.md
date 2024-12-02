@@ -23,6 +23,11 @@
 
 The **BI_Retail** project is a comprehensive Business Intelligence solution designed to analyze and visualize retail supply chain and sales data. It leverages Docker for environment setup, Apache Airflow for workflow management, PostgreSQL as the data warehouse, and PowerBI for data visualization.
 
+
+Here is our datawherehouse schema :
+![Datawherehouse projects](docs/DataWherehouse_schema.png)
+
+
 ![Start Image](docs/Supply_chain.png)
 
 ![Start Image](docs/Ventes.png)
