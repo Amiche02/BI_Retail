@@ -30,10 +30,6 @@ Here is our datawherehouse schema :
 ![Datawherehouse projects](docs/DataWherehouse_schema.png)
 
 
-![Start Image](docs/Supply_chain.png)
-
-![Start Image](docs/Ventes.png)
-
 ## Prerequisites
 
 Before setting up the project, ensure you have the following installed on your Linux system:
