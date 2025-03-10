@@ -1,6 +1,6 @@
 # BI_Retail Project
 
-![Start Image](docs/Ventes.png)
+![Start Image](docs/Ventes.png) 
 
 ## Table of Contents
 
