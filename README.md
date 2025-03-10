@@ -1,5 +1,7 @@
 # BI_Retail Project
 
+[Dashboard 2: Analyse des Ventes et des Clients](#dashboard-2-analyse-des-ventes-et-des-clients)
+
 ## Table of Contents
 
 - [BI\_Retail Project](#bi_retail-project)
