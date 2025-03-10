@@ -1,6 +1,6 @@
 # BI_Retail Project
 
-[Dashboard 2: Analyse des Ventes et des Clients](#dashboard-2-analyse-des-ventes-et-des-clients)
+![Start Image](docs/Ventes.png)
 
 ## Table of Contents
 
