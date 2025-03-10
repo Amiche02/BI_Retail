@@ -1,7 +1,5 @@
 # BI_Retail Project
 
-![Start Image](docs/Ventes.png) 
-
 ## Table of Contents
 
 - [BI\_Retail Project](#bi_retail-project)
@@ -29,6 +27,7 @@ The **BI_Retail** project is a comprehensive Business Intelligence solution desi
 Here is our datawherehouse schema :
 ![Datawherehouse projects](docs/DataWherehouse_schema.png)
 
+![Start Image](docs/Ventes.png) 
 
 ## Prerequisites
 
